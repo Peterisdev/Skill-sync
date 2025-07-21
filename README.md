@@ -8,7 +8,6 @@ A powerful WiFi security testing toolkit built for ESP8266, featuring an OLED in
 - **Deauthentication Attack**: Disconnect devices from target networks
 - **Evil Twin Attack**: Create fake access points to capture credentials
 - **Beacon Spam**: Flood area with custom WiFi networks
-- **Probe Sniffing**: Monitor probe requests from nearby devices
 - **Rickroll Beacon**: Create fun WiFi networks using Rick Astley lyrics
 
 ### Hardware Interface
